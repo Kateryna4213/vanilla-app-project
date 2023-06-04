@@ -1,3 +1,39 @@
 .callback {
-  background-color: rgb(126, 145, 93);
+  background-color: #F4F4F4;
+  display: flex;
+}
+
+.callback-manager {
+  display: block;
+}
+
+.second-title {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 38px;
+  line-height: 1.26;
+}
+
+.container-form {
+  display: flex;
+  flex-direction: column;
+
+  width: 680px;
+
+  padding: 78px 30px 82px 30px;
+}
+
+.callback-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 36px;
+}
+
+.callback-btn {
+  color: #FFFFFF;
+  background-color: #28A745;
+  border-radius: 5px;
+
 }
