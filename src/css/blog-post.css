@@ -1,3 +1,45 @@
 .blog-post-one {
-  background-color: hotpink;
+  display: flex;
+  background-color: rgba(2, 132, 208, 1);
+  color: rgba(255, 255, 255, 1);
+}
+
+.blog-post-one div {
+  flex-basis: calc(100% / 2);
+}
+
+.blog-post-text {
+  padding: 30px 112px;
+}
+
+.blog-post-img {
+  display: block;
+  padding: 0;
+}
+
+.blog-post-one-date {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.65;
+}
+
+.blog-post-one-title {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 38px;
+  line-height: 1.26;
+}
+
+.blog-post-one-text {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.55;
+}
+
+.blog-post-one-button {
 }
