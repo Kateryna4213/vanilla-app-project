@@ -1,3 +1,54 @@
 .solution {
-  background-color: yellow;
+  width: 680px;
+  height: 460px;
+  left: 680px;
+  top: 1043px;
+
+  background: #28a745;
+  border-radius: 0px;
+}
+.solution-what {
+  width: 237px;
+  height: 33px;
+  left: 710px;
+  top: 1127px;
+
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.65;
+  color: #ffffff;
+}
+.solution-title {
+  width: 541px;
+  height: 48px;
+  left: 710px;
+  top: 1165px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 38px;
+  line-height: 1.26;
+  color: #ffffff;
+}
+.soluttion-description {
+  width: 606px;
+  height: 113px;
+  left: 710px;
+  top: 1239px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.56;
+  color: #ffffff;
+}
+.solution-btn {
+  width: 167px;
+  height: 50px;
+  left: 710px;
+  top: 1369px;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
 }
