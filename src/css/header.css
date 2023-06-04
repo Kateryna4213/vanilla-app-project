@@ -1,3 +1,13 @@
 .header {
-  background-color: teal;
+
+}
+
+.page-nav {
+  display: flex;
+  align-items: center;
+}
+
+.menu {
+  display: flex;
+  gap: 38px;
 }
